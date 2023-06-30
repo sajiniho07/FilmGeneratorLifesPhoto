@@ -30,9 +30,9 @@ Film Generator Life's Photo is a Python script that generates a video by composi
 
 Note: Make sure the images in the directory have consistent aspect ratios for better alignment results.
 
-## Example 1
+## Example 
 
-![sample_1](https://github.com/sajiniho07/ImageBackGroundRemover/blob/master/output.mp4)
+![sample_1](https://github.com/sajiniho07/FilmGeneratorLifesPhoto/blob/master/output.mp4)
 
 ## Acknowledgements
 - [OpenCV](https://opencv.org/): Open Source Computer Vision Library
