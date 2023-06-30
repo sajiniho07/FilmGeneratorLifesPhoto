@@ -32,7 +32,7 @@ Note: Make sure the images in the directory have consistent aspect ratios for be
 
 ## Example 
 
-![sample](https://github.com/sajiniho07/FilmGeneratorLifesPhoto/blob/master/output.gif)
+![sample](output.gif)
 
 ## Acknowledgements
 - [OpenCV](https://opencv.org/): Open Source Computer Vision Library
